@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 software engineering is a branch of computer science that applies engineering principles and tools in order to develop and maintain a high quality software product. This field is important because it has powered and bring forth solutions to various aspects of modern life like creating platform that aid for commerce, communications,entertainment etc.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1) The establishment of programming languages whcih can now use to write code in order to develop programs , the establish of software engineering as a cousre that teaches one on how to create code and lastly it provides structured method that can be used to create software.
+1) The establishment of programming languages which can now be used to write code in order to develop programs , the establishment  of software engineering as a course that teaches one on how to create code and lastly it provides structured method that can be used to create software.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 The software Development Lifecycle (SLDC) is recurrent process often revolving amongst these sub processes such as Requirements, Design, Implementation/Development, Testing, Deployment, Maintenance.
