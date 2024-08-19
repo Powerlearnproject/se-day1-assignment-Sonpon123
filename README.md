@@ -28,7 +28,6 @@ Software Developers are the ones that write the code and implement the plan for 
 Quality Assurance Engineers work by running test so as to ensure effective working of the software product.
 project manager is the one who oversee the entire process and makes sure it's done with in the targeted time and budget.
 
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs) are tools deployed by software engineers to write code and implement the projects; detecting bugs and fixing them.
 Version Control Systems(VCS) are tools used mainly in the maintenance stage of the SDLC as it involves adding new features to a software product. It often tells who makes the version and at what time illustrating the progress betweent different version of a software product.
@@ -38,6 +37,7 @@ Change in the requirements, that occurs as a result of change in plan goals whil
 Targeted Deadline: The time specified for a project to be done with often plays a crucial role in the low quality of a software product, as software developers will be in rush to complete the project before that time.
 Technical debt often incurred in a software product when the developer didn't follow a straight procedure and takes shortcuts to complete task.
 One effective way of solving this is effective communication with others developers enhancing team work; deploying the agile method and prioritizing certain task that needs to be done before other smaller tasks.
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing is the act of testing individual part of a software system.
 Integration Testing is the act of testing the interaction between different parts of the system.
